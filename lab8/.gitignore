@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+venv/
+lr8_*.png
+*.jpg
+*.jpeg
