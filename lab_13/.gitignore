@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 venv/
 lr13_*.png
-*.jpg
-*.jpeg
