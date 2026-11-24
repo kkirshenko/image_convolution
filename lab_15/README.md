@@ -20,7 +20,7 @@
 Масштабироваться: увеличение числа потребителей ускоряет обработку.
 Дополнительно демонстрируется паттерн Future/Promise – объект-обещание, который возвращается сразу после отправки задачи, а результат становится доступен позже.
 
-![image_001_spd2m_image1.jpeg](images/image_001_spd2m_image1.jpeg)
+![image_001_spd2m_image1.png](images/image_001_spd2m_image1.jpeg)
 
 ![image_002_spd2m_image2.png](images/image_002_spd2m_image2.png)
 
